@@ -60,3 +60,23 @@ function factorial(n: number): number {
   }
   return n * factorial(n - 1);
 }
+
+
+
+// Ejemplo de una función con desestructuración de objetos
+type Persona = { nombre: string; edad: number; ciudad: string };
+
+function procesarDatos(a: number, b: number, persona: Persona): void {
+  const { nombre, edad, ciudad } = persona;
+
+  console.log("Parámetro a:", a);
+  console.log("Parámetro b:", b);
+  console.log("Datos de la persona:");
+  console.log(`Nombre: ${nombre}`);
+  console.log(`Edad: ${edad}`);
+  console.log(`Ciudad: ${ciudad}`);
+}
+
+const juan: Persona = { nombre: "Juan", edad: 25, ciudad: "Madrid" };
+
+procesarDatos(1, 2, juan);
