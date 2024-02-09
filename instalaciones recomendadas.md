@@ -43,6 +43,6 @@ git config --global user.email "Tu correo"
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
