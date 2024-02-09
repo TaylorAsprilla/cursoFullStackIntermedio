@@ -1,4 +1,4 @@
-# Curso Full Stak Intermedio
+# Curso Full Stack Intermedio
 
 ### Instalar TypeScript
 Si aún no has instalado TypeScript, puedes hacerlo ejecutando el siguiente comando en tu terminal:
