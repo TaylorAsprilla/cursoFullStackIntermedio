@@ -21,17 +21,6 @@ git config --global user.email "Tu correo"
 
 ### Configuración del Bracket Pair Colorizer 2
 
-[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-```
-"bracket-pair-colorizer-2.colors": [
-    "#fafafa",
-    "#9F51B6",
-    "#F7C244",
-    "#F07850",
-    "#9CDD29",
-    "#C497D4"
-],
-```
 ### Instalaciones recomendadas sobre Angular
 * [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 
